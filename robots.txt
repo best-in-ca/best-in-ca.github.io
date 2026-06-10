@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://best-in-ca.github.io/sitemap.xml
